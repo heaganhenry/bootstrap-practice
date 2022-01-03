@@ -1,2 +1,2 @@
-# freecodecamp-bootstrap-tutorial
-FreeCodeCamp Bootstrap crash course 
+# bootstrap-practice
+Traversy Media Bootstrap crash course 
